@@ -1,10 +1,12 @@
-# Meow Magic 🐱
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
+# 🐱 Meow Magic 
 
 Meow Magic is a fun and simple website that generates random cat images with a single click. 
 
 ![MeowMagicDemo](https://github.com/KrishBharadwaj5678/Meow-Magic/raw/main/MeowMagic.png)
 
-## Features ✨
+## ✨ Features 
 
 | Feature              | Description                                           |
 | -------------------- | ----------------------------------------------------- |
@@ -14,7 +16,7 @@ Meow Magic is a fun and simple website that generates random cat images with a s
 
 ---
 
-## Tech Stack ⚙️
+## ⚙️ Tech Stack 
 
 | Technology        | Purpose                                            |
 | ----------------- | -------------------------------------------------- |
@@ -24,28 +26,19 @@ Meow Magic is a fun and simple website that generates random cat images with a s
 
 ---
 
-## Installation  🛠️
+## 🚀 Getting Started
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/MeowMagic.git
-   ```
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/KrishBharadwaj5678/MeowMagic.git
+```
    
-2. Navigate to the project directory:  
-   ```bash
-   cd Cat
-   ```
+### 2️⃣ Navigate to project directory
+
+```bash
+cd MeowMagic
+```
    
-3. Open `index.html` in your browser.
+### 3️⃣ Open `index.html` in your browser.
 
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
